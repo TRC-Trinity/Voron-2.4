@@ -5,4 +5,5 @@ You can visit the offical store [here.](https://trctrinity.com)
 All our works are created under the GNU GPL V3 as required by the Voron Design team. For more info, see [here](LICENSE.md). As required by the GNU GPL V3 License, we include all the manuals which our manual is based on in [this folder](Base_Manuals).
 
 ### Contact
-If you have any questions regarding any of our products, manuals or other we request you visit our [support and faq page.](https://trctrinity.com/support/)
+If you have any questions regarding any of our products we request you visit our [support and faq page.](https://trctrinity.com/support/)
+For general questions about Vorons or specific Voron hardware we recommend you join the [official Voron Design Discord server](https://discord.com/invite/voron).
